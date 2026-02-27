@@ -2,6 +2,8 @@
 
 A warm, neighborhood-inspired café site. The brand voice is inviting, unrushed, and human: coffee that feels like a hug and a space made for lingering.
 
+Live site: [cozy-bean-cafe-nine.vercel.app](https://cozy-bean-cafe-nine.vercel.app/)
+
 ## Tech stack
 - React 19 (with React Router 7) for pages and routing
 - Vite 8 for dev/build
